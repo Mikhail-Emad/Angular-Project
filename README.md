@@ -1,5 +1,4 @@
 # Project
-Mikhail Emad is an Instructor in iti Minia branch
 
 Iam from BNS
 Iam playing football
